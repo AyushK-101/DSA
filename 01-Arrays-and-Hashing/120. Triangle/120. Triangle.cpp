@@ -1,0 +1,1 @@
+        for(int j=0;j<triangle.size();j++){            mini=min(mini,triangle[triangle.size()-1][j]);        }        return mini;    }};
